@@ -32,4 +32,6 @@ The period from June 2012 to September 2012. The dataset includes 11 attribues a
 
 11. Fire Weather Index (FWI) Index : 0 to 31.1
 
-12. Classes : Two classes, namely Fire and not Fire
+12. Classes : Two classes, namely Fire(1) and not Fire(0) : 0 to 1
+
+13. Region : Two regions, namely Sidi Bel-abbes region(2) and Bejaia region(1) : 1 to 2
